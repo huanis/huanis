@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![huanis' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=huanis&theme=dracula&show_icons=true)](https://github.com/huanis)
+[![huanis' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=huanis&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8)(https://github.com/huanis)
